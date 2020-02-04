@@ -6,11 +6,8 @@ public class ArrayExercises {
     // According to:
     //https://www.samouczekprogramisty.pl/tablice-w-jezyku-java/
 
-    //POPRAWKI
-    // "instancje tablicy służących do" a nie służącej?
-
     // Exercise 1
-    public static double geSum(double[] array) {
+    public static double getSum(double[] array) {
         double sum = 0;
         for (double element : array) {
             sum += element;
