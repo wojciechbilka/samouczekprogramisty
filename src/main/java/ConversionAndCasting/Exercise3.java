@@ -23,7 +23,6 @@ public class Exercise3 {
             listOfStrings.get(0).length();
 
 
-
         } catch (ClassCastException e) {
             System.out.println("Wrong casting may be dangerous!");
             e.printStackTrace();
