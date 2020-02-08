@@ -4,6 +4,11 @@ import java.util.Scanner;
 import java.lang.Double;
 
 public class Exercise1 {
+/*
+    Napisz program przyjmujący od użytkownika liczbę całkowitą i wyświetl wynik mnożenia tej liczby oraz stałej pi (Math.PI).
+    Wyświetl wynik w postaci liczby całkowitej i liczby zmiennoprzecinkowej.
+*/
+
     public static double multiplyByPi(double value) {
         double result = value * Math.PI;
         return result;
