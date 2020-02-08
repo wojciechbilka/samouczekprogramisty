@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Exercise3 {
+    // Napisz program, który skończy się wyjątkiem spowodowanym błędem podczas boxingu/unboxingu.
 
     public static void main(String[] args) {
         System.out.println("Unboxing excepion:");
